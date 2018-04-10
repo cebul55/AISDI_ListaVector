@@ -73,3 +73,4 @@ Uwagi
   * Przełączanie się pomiędzy trybami budowania "Debug" i "Release" wymaga otwarcia dwóch instancji
     CodeBlocks, ale obydwie wykorzystywać będą te same pliki źródłowe.
 # AISDI_ListaVector
+# AISDI_ListaVector
