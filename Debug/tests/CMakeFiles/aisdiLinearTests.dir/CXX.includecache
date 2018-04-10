@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+iostream
+-
+
+../src/Vector.h
+iostream
+-
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+limits
+-
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/tests/LinkedListTests.cpp
+LinkedList.h
+-
+initializer_list
+-
+complex
+-
+cstdint
+-
+cstddef
+-
+boost/test/unit_test.hpp
+-
+boost/test/test_tools.hpp
+-
+boost/mpl/list.hpp
+-
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/tests/VectorTests.cpp
+Vector.h
+-
+initializer_list
+-
+complex
+-
+cstdint
+-
+cstddef
+-
+boost/test/unit_test.hpp
+-
+boost/test/test_tools.hpp
+-
+boost/mpl/list.hpp
+-
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/tests/test_main.cpp
+boost/test/unit_test.hpp
+-
+

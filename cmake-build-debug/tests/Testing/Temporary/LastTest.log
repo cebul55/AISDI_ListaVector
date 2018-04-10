@@ -1,0 +1,21 @@
+Start testing: Nov 30 23:06 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/cmake-build-debug/tests/aisdiLinearTests"
+Directory: /Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/cmake-build-debug/tests
+"boostUnitTestsRun" start time: Nov 30 23:06 CET
+Output:
+----------------------------------------------------------
+Running 520 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Nov 30 23:06 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 30 23:06 CET

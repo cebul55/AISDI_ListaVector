@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+iostream
+-
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/src/Vector.h
+iostream
+-
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+limits
+-
+
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/src/main.cpp
+cstddef
+-
+cstdlib
+-
+string
+-
+chrono
+-
+Vector.h
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/src/Vector.h
+LinkedList.h
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/src/LinkedList.h
+

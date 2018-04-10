@@ -1,0 +1,22 @@
+Start testing: Nov 30 22:36 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/Debug/tests/aisdiLinearTests"
+Directory: /Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/Debug/tests
+"boostUnitTestsRun" start time: Nov 30 22:36 CET
+Output:
+----------------------------------------------------------
+Running 520 test cases...
+/Users/bartoszcybulski/Documents/Informatyka WEITI Materiały /Semestr_3/Algorytmy i Struktury Danych/Lab/Liniowe/tests/LinkedListTests.cpp:194: error: in "VectorTests/GivenNonEmptyCollection_WhenMoveAssigning_ThenAllElementsAreMoved<(anonymous_namespace)__OperationCountingObject>": check OperationCountingObject::destroyedObjectsCount() == count has failed [8 != 12]
+
+*** 1 failure is detected in the test module "aisdi_linear_tests"
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Failed.
+"boostUnitTestsRun" end time: Nov 30 22:36 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 30 22:36 CET
